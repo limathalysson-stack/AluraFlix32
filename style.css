@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color:rgba(159, 237, 229, 0.181);
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ margin: 0px;
+}
+h1{
+
+    color:blue;
+    font-size: 40px;
+}
+
+p{
+    font-size: 25px;
+}
+header{
+border-bottom: solid 3x color rgb(0, 255, 89);
+margin: 2px;
+padding: 10px;
+color: lawngreen;
+
+}
+.chamada{
+    background-color: aliceblue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
